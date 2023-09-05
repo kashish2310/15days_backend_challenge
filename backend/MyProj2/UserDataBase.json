@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "name": "Karl Doe",
+    "email": "karl@example.com",
+    "age": 21,
+    "address": "135 ,ldmcv,vniv"
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "age": 23,
+    "address": "134 ,ldmcv,vniv"
+  },
+  {
+    "id": 1693209956958,
+    "name": "Marl Doe",
+    "email": "karl@example.com",
+    "age": 25,
+    "address": "135 ,ldmcv,vniv"
+  },
+  {
+    "name": "KASHISH",
+    "id": 1693210155179,
+    "email": "karl@example.com",
+    "age": 25,
+    "address": "135 ,ldmcv,vniv"
+  }
+]
